@@ -10,7 +10,7 @@
 **Repository Name:** [vi_ethical_statement](https://github.com/vision_intel/vi_ethical_statement)  
 **Description:** Vision Intelligence Ethical Statement: Public statement of ethical intent for Vision Intelligence Ltd.
 
-Welcome, and thank you for visiting our ethical statement repository! 👋 Vision Intelligence is committed to upholding ethical integrity and transparency. This repository serves as a public ledger for the Ethical Statement that we post publicly, enabling an open and ongoing dialogue around our practices, values, and commitments.
+Welcome, and thank you for visiting our ethical statement repository! 👋 Vision Intelligence is committed to upholding ethical integrity and transparency. This repository serves as a public ledger for the Ethical Statement available on our website, enabling an open and ongoing dialogue around our practices, values, and commitments.
 
 ## Purpose 🌟
 
